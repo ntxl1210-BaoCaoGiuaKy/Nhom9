@@ -1,2 +1,2 @@
 ntxl12102 - test commit branch develop
-test commit l?n cu?i
+test commit jira
